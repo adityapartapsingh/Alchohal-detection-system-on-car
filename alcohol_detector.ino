@@ -7,7 +7,7 @@
 //  I/O pins
 #define MQ3 A2
 #define Buzzer A1
-#define LED 
+#define LED A0
 //Threshold value of MQ3 reading above which it should trigger/
 #define Thres_Val 460
 // global int to store the analog reading from MQ3 (0 to 1023)
